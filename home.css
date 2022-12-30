@@ -1,0 +1,213 @@
+.pinkbc1 {
+  background-image: linear-gradient(rgb(106, 77, 212), rgba(18, 177, 240, 0.938));
+  background-size: cover;
+  height: 194vh;
+  background-repeat: no-repeat;
+}
+
+.pinkcar1 {
+  background-color: rgba(9, 178, 245, 0.589);
+  height: 104vh;
+  padding: 10px;
+  margin-top: -97vh;
+}
+
+.pinkbpcar1 {
+  background-color: rgba(157, 199, 216, 0.938);
+  padding: 12px;
+  width: 184px;
+  border-style: groove;
+  margin-top: 615px;
+  height: 21px;
+}
+
+#pinkhead1 {
+  color: rgb(6, 6, 117);
+  margin: -10px;
+    margin-left: -10px;
+  margin-left: -14px;
+  margin-left: 30px;
+}
+
+.pinkic1 {
+  margin-top: -30px;
+  margin-left: 0px;
+  color: aliceblue;
+}
+
+.pinkabcar1 {
+  background-color: rgba(248, 55, 161, 0.911);
+  padding: 1px;
+  width: 140px;
+  border-radius: 16px;
+  margin-top: -53px;
+  margin-left: 1170px;
+}
+
+#pinkab1{
+text-align: center;
+color: antiquewhite;
+}
+
+.pinkregcar1 {
+  background-color: rgba(242, 41, 41, 0.83);
+  padding: 1px;
+  width: 140px;
+  border-radius: 16px;
+  margin-top: -52px;
+  margin-left: 998px;
+}
+
+#pinkr1{
+text-align: center;
+color: antiquewhite;
+}
+
+.pinklogcar1 {
+  background-color: rgba(86, 225, 82, 0.81);
+  padding: 1px;
+  width: 140px;
+  border-radius: 16px;
+  margin-top: -52px;
+  margin-left: 816px;
+}
+
+#pinkl1{
+text-align: center;
+color: antiquewhite;
+}
+
+.pinkimg {
+  background-image: url(./doc.jpg);
+  height: 400px;
+  width: 697px;
+  background-repeat: no-repeat;
+  margin-top: 58px;
+  border-radius: 5px;
+}
+
+.pinktr1 {
+position: fixed;
+color: rgb(11, 101, 204);
+font-size: 27px;
+font-weight: bolder;
+font-family: Arial, Helvetica, sans-serif;
+top: 195px;
+right: 695px;
+}
+
+
+.pinktrp1 {
+position: absolute;
+color: rgb(19, 7, 87);
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+top: 268px;
+right: 855px;
+}
+
+.pinktri1 {
+position: absolute;
+color: rgb(240, 12, 140);
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+top: 337px;
+right: 656px;
+}
+
+.pinktrc1 {
+position: absolute;
+color: rgb(208, 15, 33);
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+top: 397px;
+right: 591px;
+}
+
+.pinktrt1 {
+position: absolute;
+color: rgb(53, 23, 225);
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+top: 444px;
+right: 653px;
+}
+
+.pinkimg1 {
+  background-image: url(./dc.jpg);
+  height: 400px;
+  width: 640px;
+  background-repeat: no-repeat;
+  margin-top: -400px;
+  margin-left: 696px;
+  border-radius: 5px;
+}
+
+.pinkce1 {
+background-color: rgba(7, 57, 77, 0.59);
+height: 10vh;
+padding: 10px;
+margin-top: 474px;
+}
+
+.pinkcus1{
+margin-top: 5px;
+margin-left: 5px;
+color: aliceblue;
+}
+
+#pinkheadc1 {
+  margin-top: -28px;
+  font-weight: bolder;
+  margin-left: -40vh;
+  right: 72em;
+}
+
+
+#pinkp1 {
+  margin-top: -4px;
+  font-weight: bolder;
+  margin-left: 57px;
+}
+
+#pinkpp1 {
+  margin-top: -14px;
+  font-weight: bolder;
+  margin-left: 59px;
+}
+
+.pinkvl1 {
+  border-left: 3px solid rgb(243, 252, 243);
+  height: 85px;
+  position: absolute;
+  left: 50%;
+  margin-left: -430px;
+  top: 93px;
+  margin-top: 454px;
+}
+
+#pinkppp1 {
+  margin-top: -78px;
+  font-weight: bolder;
+  margin-left: 257px;
+}
+
+#pinkpppp1 {
+  margin-top: -4px;
+  font-weight: bolder;
+  margin-left: -658px;
+  right: 37em;
+}
+
+
+.pinkvll1 {
+  border-left: 3px solid rgb(243, 252, 243);
+  height: 85px;
+  position: absolute;
+  left: 42%;
+  margin-left: -34px;
+  top: 93px;
+  margin-top: 454px;
+}
+
